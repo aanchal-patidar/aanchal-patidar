@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchal-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="aanchal-patidar" /> </p>
 
-- 🌱 I’m currently learning ** Node js , .NET , C# **
+- 🌱 I’m currently learning ** Java Full Stack Development **
 
 - 📫 How to reach me **aanchalpatidar89@gmail.com**
 
