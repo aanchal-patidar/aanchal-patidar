@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aanchal Patidar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchal-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="aanchal-patidar" /> </p>
