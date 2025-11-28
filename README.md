@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanchal-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="aanchal-patidar" /> </p>
 
-- 🌱 I’m currently an Associate Software Developer whose Driven by a passion for innovation, I leverage my technical expertise to craft cutting-edge software solutions. With 1.5+ years of experience in software development, I've honed my skills in PL/SQL, Oracle DBMS, PowerBuilder, Java, SQL, HTML, CSS, JavaScript, and OOPS. I'm committed to writing clean, efficient code and collaborating with teams to deliver exceptional results. I thrive in dynamic environments, prioritizing tasks and meeting deadlines. With a strong foundation in software development, I aim to drive business growth and innovation through technology.
+- 🌱 I’m currently an Associate Software Developer whose driven by a passion for innovation. I leverage my technical expertise to craft cutting-edge software solutions. With 1.5+ years of experience in software development, I've honed my skills in PL/SQL, Oracle DBMS, PowerBuilder, Java, SQL, HTML, CSS, JavaScript, and OOPS. I'm committed to writing clean, efficient code and collaborating with teams to deliver exceptional results in "Core Banking Solution". With a strong foundation in software development, I aim to drive business growth and innovation through technology.
 
 - 📫 How to reach me **aanchalpatidar89@gmail.com**
 
